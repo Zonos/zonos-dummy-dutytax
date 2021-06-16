@@ -1,1 +1,1 @@
-zonos-dummy-dutytax
+a dummy repo to protect against Dependency Confusion for our plugins

@@ -1,0 +1,14 @@
+{
+    "name": "zonos/dutytax",
+    "description": "Zonos duty & tax Magento 2 Module",
+    "autoload": {
+        "psr-4": {
+            "Zonos\\DutyTax\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    },
+    "type": "magento2-module",
+    "version": "1.0.0"
+}
